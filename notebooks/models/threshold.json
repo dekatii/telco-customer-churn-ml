@@ -1,0 +1,8 @@
+{
+    "model": "LogisticRegression",
+    "threshold": 0.168,
+    "positive_label": 1,
+    "selection_method": "Stratified 5-fold cross-validation",
+    "threshold_selection": "Out-of-fold probabilities",
+    "minimum_validation_recall": 0.9
+}
